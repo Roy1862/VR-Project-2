@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: cornflowerblue;
+}
+
+
+a{
+  background-color:cornflowerblue;
+}
+
+.button{
+  text-decoration:none;
+  background-color:red;
+  color:white;
+  border-radius:4px;
+  padding:6px;
+  box-shadow:2px 2px 2px black;
+  cursor: pointer;
+  align-items: center;
+}
+
+img{
+  width: 30%;
+  height: 30%;
+  object-fit: cover;
+}
+
+#banner{
+  display:flex;
+  padding: 10x;
+  align-items: center;
+}
